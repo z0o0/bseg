@@ -1,0 +1,1 @@
+This repository contains the simulation data for the paper titled "Segmentation of Binary Sequence via Minimizing Least Square Error with Total Variation Regularization," submitted to the CSAM Journal.
